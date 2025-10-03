@@ -30,7 +30,7 @@ Most of these are not part of the LFS book, so download their sources manually:
 
 - libarchive: <https://github.com/libarchive/libarchive/releases/download/v3.8.1/libarchive-3.8.1.tar.gz>
 - fakeroot: <https://ftp.debian.org/debian/pool/main/f/fakeroot/fakeroot_1.37.1.2.orig.tar.gz>
-- pacman: <hhttps://sources.archlinux.org/other/pacman/pacman-6.0.2.tar.xz>
+- pacman: <https://sources.archlinux.org/other/pacman/pacman-6.0.2.tar.xz>
 
 Build these packages using the following commands. Just like the LFS book, these commands assume you've extracted the relevant sources and `cd`'d into the resulting directory.
 
